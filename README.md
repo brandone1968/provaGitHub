@@ -18,6 +18,8 @@
 # modifiche fatte dal portatile con seconda utenza
 # dal portatile
 #
-# prova del 8 giugno ore 17:38
+# prova del 8 giugno ore 17:38 CAMBIO anche questa riga perche voglio avere un conflitto
 # modifiche fatte dal fisso
+#
+# altra modifica dal portatile per il conflitto
 
