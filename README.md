@@ -18,6 +18,8 @@
 # modifiche fatte dal portatile con seconda utenza
 # dal portatile
 #
-# prova del 8 giugno ore 17:38
+# prova del 8 giugno ore 17:38 cambio PROPRIO QUESTA PER CONFLITTO
 # modifiche fatte dal fisso
+#
+# e aggiungo dal fisso per merge con conflietto
 
