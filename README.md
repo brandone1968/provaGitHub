@@ -22,4 +22,6 @@
 # modifiche fatte dal fisso
 #
 # e aggiungo dal fisso per merge con conflietto
+#
+# altra modifica dal portatile per il conflitto
 
