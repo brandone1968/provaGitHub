@@ -24,4 +24,6 @@
 # e aggiungo dal fisso per merge con conflietto
 #
 # altra modifica dal portatile per il conflitto
+#
+# modifica contemporanea alle modifiche di Pippo
 
