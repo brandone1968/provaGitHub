@@ -1,21 +1,23 @@
 <?
 
-class Pippo 
+class Pippo
 {
-    function ScrivoCiao() {
+    function ScrivoCiao()
+    {
         echo "ciao";
     }
 
-    function ScrivoAddio() {
+    function ScrivoAddio()
+    {
         echo "addio";
     }
 
-    function ScrivoUffa() {
+    function ScrivoUffa()
+    {
         echo "uffa";
     }
 
-    function ScrivoUffa2() {
-        echo "uffa2";
+    function ScrivoCheBarba() {
+        echo "che barba";
     }
-    
 }
